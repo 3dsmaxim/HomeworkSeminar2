@@ -10,3 +10,5 @@ int num = Convert.ToInt32(Console.ReadLine());
 else if ((num > 0 && num < 8) & (num == 6)) Console.WriteLine($"{num} да, это выходной");
 
 else Console.WriteLine($"{num} нет, это не выходной");
+
+
