@@ -12,3 +12,5 @@ else if ((num > 0 && num < 8) & (num == 6)) Console.WriteLine($"{num} да, эт
 else Console.WriteLine($"{num} нет, это не выходной");
 
 
+
+
